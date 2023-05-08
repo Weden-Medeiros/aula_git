@@ -1,6 +1,6 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EyODk3NmQ5ODlhZjRhOGMxNTY0NjM2YzljNTVmNTE3MjQ4NTA0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VX2Btre6lxmwGBABZ0/giphy.gif">
 
-![giphy](https://user-images.githubusercontent.com/132413619/236715087-9aa511f5-3678-4430-b66b-525c2dc4c06a.gif)">
+![giphy](https://user-images.githubusercontent.com/132413619/236715087-9aa511f5-3678-4430-b66b-525c2dc4c06a.gif)"
 
 # Olá <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
