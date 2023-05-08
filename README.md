@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+<img style="margin-top: 40px;" align="right" width="400px" src="">
 
 # Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
