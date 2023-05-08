@@ -1,5 +1,5 @@
-<iframe src="https://giphy.com/embed/VX2Btre6lxmwGBABZ0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KonnichiwaFestival-VX2Btre6lxmwGBABZ0"></a></p>
-
+<img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/VX2Btre6lxmwGBABZ0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KonnichiwaFestival-VX2Btre6lxmwGBABZ0">via GIPHY</a></p>
 
 
 # Olá <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
