@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="400px" src="https://giphy.com/gifs/KonnichiwaFestival-VX2Btre6lxmwGBABZ0">
+<img style="margin-top: 40px;" align="right" width="100px" src="https://giphy.com/gifs/KonnichiwaFestival-VX2Btre6lxmwGBABZ0">
 
 # Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
