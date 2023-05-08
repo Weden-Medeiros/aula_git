@@ -1,4 +1,4 @@
-<img style="margin-top: 10px;" align="right" width="400px" src="https://giphy.com/gifs/KonnichiwaFestival-VX2Btre6lxmwGBABZ0">
+<img style="margin-top: 10px;" align="right" width="400px" src="https://giphy.com/gifs/KonnichiwaFestival-VX2Btre6lxmwGBABZ0](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EyODk3NmQ5ODlhZjRhOGMxNTY0NjM2YzljNTVmNTE3MjQ4NTA0MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VX2Btre6lxmwGBABZ0/giphy.gif">
 
 
 
