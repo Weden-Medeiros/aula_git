@@ -1,6 +1,6 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
-# Heeeeyy guys <img src="https://giphy.com/gifs/KonnichiwaFestival-VX2Btre6lxmwGBABZ0" width="30px">
+# Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 #### I work as a software developer. I believe in the evolution of technology and I am always up to date with technological subjects. Always seeking knowledge and networking. 
 
@@ -25,4 +25,3 @@
 <img src="https://github.com/giovana-simas/giovana-simas/blob/main/snake.svg" alt="Snake animation" />
 
 ###
-
